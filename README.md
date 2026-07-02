@@ -19,7 +19,7 @@ This project demonstrates an Internet of Things (IoT) based **Rain Monitoring Sy
 
 | Component / Device | NodeMCU Pin | Description |
 |---------------------|-------------|-------------|
-| **Raindrop Sensor (Analog Out)** | A0 | Reads analog moisture values (0 = Max Wet, 1023 = Dry) |
+| **Raindrop Sensor (Analog Out)** | D2 | Reads analog moisture values (0 = Max Wet, 1023 = Dry) |
 | **Piezo Buzzer** | D5 | Audio alert output (Active when rain is detected) |
 | **LED Indicator** | D6 | Visual flash alert (Active when rain is detected) |
 
